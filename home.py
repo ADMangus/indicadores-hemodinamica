@@ -58,8 +58,8 @@ st.sidebar.markdown("""---""")
 st.sidebar.write('*Desenvolvido por Arthur D. Mangussi*')
 aa = Image.open(st.session_state['imagem'])
 st.sidebar.image(aa,  width=10, use_column_width = True)
-img = '<img src=https://github.com/ADMangus/indicadores-hemodinamica/blob/main/nucleorad.png?raw=true>'
-st.sidebar.image(img)
+#img = '<img src=https://github.com/ADMangus/indicadores-hemodinamica/blob/main/nucleorad.png?raw=true>'
+#st.sidebar.image(img)
 
 
 page = PAGES[selection]
