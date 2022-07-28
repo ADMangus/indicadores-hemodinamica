@@ -56,10 +56,8 @@ selection = st.sidebar.selectbox("O que você deseja executar?", list(PAGES.keys
 st.sidebar.button('📬 Reportar erro')
 st.sidebar.markdown("""---""")
 st.sidebar.write('*Desenvolvido por Arthur D. Mangussi*')
-aa = Image.open(st.session_state['imagem'])
-st.sidebar.image(aa,  width=10, use_column_width = True)
-#img = '<img src=https://github.com/ADMangus/indicadores-hemodinamica/blob/main/nucleorad.png?raw=true>'
-#st.sidebar.image(img)
+#aa = Image.open(st.session_state['imagem'])
+#st.sidebar.image(aa,  width=10, use_column_width = True)
 
 
 page = PAGES[selection]
