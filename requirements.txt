@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+PIL
+os 
+datetime
+time
+streamlit
+aspose.words
+aspose.pydrawing
