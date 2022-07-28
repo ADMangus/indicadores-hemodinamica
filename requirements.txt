@@ -4,4 +4,4 @@ numpy
 datetime
 streamlit
 aspose.words
-PIL.Image
+
