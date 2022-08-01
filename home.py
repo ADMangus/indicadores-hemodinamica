@@ -4,9 +4,7 @@ import philips
 import relatorio
 import relatorio_medico
 import streamlit as st
-
 from configparser import ConfigParser
-from PIL import Image
 
 #Layout
 st.set_page_config(layout="wide")
