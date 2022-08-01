@@ -1,4 +1,4 @@
-pandas
+pandas as pd
 matplotlib
 numpy
 datetime
